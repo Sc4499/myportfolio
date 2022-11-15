@@ -1,0 +1,9 @@
+.navbar{
+background:rgb(251, 252, 252);
+box-shadow:  4px 4px 8px rgb(177, 177, 177),
+             4px -4px 8px #dfdfe0;
+}
+
+.logo{
+    width:4rem;
+}

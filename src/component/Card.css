@@ -1,0 +1,36 @@
+.skill-icon{
+    padding: 12px 0px 0px 12px;
+
+}
+
+.card{
+    -webkit-border-radius:10px ;
+    border-radius:10px ;
+    background: #f8f9fb;
+    -webkit-box-shadow: 4px 4px 8px #b2b8c9, 4px -4px 8px #f0f8ff;
+    box-shadow: 4px 4px 8px #b2b8c9, -4px -4px 8px #f0f8ff;
+    scale:1;
+    transition: 1s;
+}
+.card:hover{
+    -webkit-border-radius:10px ;
+    border-radius:10px ;
+    color:white;
+    background:rgb(236, 74, 128);
+    -webkit-box-shadow: 4px 4px 8px #b2b8c9, 4px -4px 8px #f0f8ff;
+    box-shadow: 4px 4px 8px #b2b8c9, -4px -4px 8px #f0f8ff;
+    scale:1.1;
+}
+.card:hover p{
+    color:white;
+}
+.card:hover a{
+    color:white;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+.card-text{
+    color:#b2b8c9
+}
