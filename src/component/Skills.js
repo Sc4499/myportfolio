@@ -4,7 +4,7 @@ import "./Skill.css";
 
 const Skills = () => {
   return (
-    <div className='resume' id="skil">
+    <div className='skilltop' id="skil">
         
       <Scard/>
     </div>
